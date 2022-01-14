@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/delia/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/delia/static/js/main.e8d1cb0e.chunk.js",
+    "main.js.map": "/delia/static/js/main.e8d1cb0e.chunk.js.map",
+    "runtime-main.js": "/delia/static/js/runtime-main.b831d940.js",
+    "runtime-main.js.map": "/delia/static/js/runtime-main.b831d940.js.map",
+    "static/js/2.dee0b254.chunk.js": "/delia/static/js/2.dee0b254.chunk.js",
+    "static/js/2.dee0b254.chunk.js.map": "/delia/static/js/2.dee0b254.chunk.js.map",
+    "index.html": "/delia/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/delia/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.dee0b254.chunk.js.LICENSE.txt": "/delia/static/js/2.dee0b254.chunk.js.LICENSE.txt",
+    "static/media/clean2.dc7e7940.jpg": "/delia/static/media/clean2.dc7e7940.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b831d940.js",
+    "static/js/2.dee0b254.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.e8d1cb0e.chunk.js"
+  ]
+}
