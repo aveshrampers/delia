@@ -8,7 +8,7 @@ export const homeObjOne = {
   description: "At Deliah's Cleaning Services, we specialize in cleaning to client needs."+
   'We strive for the very best in meeting the clients needs. Our goal is to leave the customer feeling like they are living in a brand new home.',
   imgStart: false,
-  img: '/images/clean.jpg',
+  img: './images/clean.jpg',
   alt: 'duster',
   dark: false,
   primary: false,
@@ -24,7 +24,7 @@ export const homeObjTwo = {
   headline: 'Cleaning Services',
   description: '- Sweeping, Mopping, Cleaning of Windows,Dusting, Full cleaning of home',
   imgStart: true,
-  img: '/images/clean4.jpg',
+  img: './images/clean4.jpg',
   alt: 'cleaning',
   dark: false,
   primary: false,
