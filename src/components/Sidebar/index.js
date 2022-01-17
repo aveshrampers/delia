@@ -18,6 +18,9 @@ const Sidebar = ({isOpen, toggle}) => {
             <SidebarLink to="gallery" onClick={toggle}>
                 Gallery
             </SidebarLink>
+            <SidebarLink to="contact" onClick={toggle}>
+                Contact Us
+            </SidebarLink>
         </SidebarMenu>
     </SidebarWrapper>
 </SidebarContainer>

@@ -19,7 +19,6 @@ const Navbar = ({ toggle }) => {
   }, [])
 
   const toggleHome = () => {
-    scroll.scrollToTop();
   }
 
   return (
@@ -27,7 +26,7 @@ const Navbar = ({ toggle }) => {
     <IconContext.Provider value={{ color: '#000'}}>
       <Nav scrollNav={scrollNav}>
         <NavbarContainer>
-          <NavLogo to='/' onClick={toggleHome}>Deliah's Cleaning Services</NavLogo>
+          <NavLogo to='/' onClick={toggleHome}>Just Brite Cleaning Service</NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>

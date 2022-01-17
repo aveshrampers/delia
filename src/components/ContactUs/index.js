@@ -5,7 +5,6 @@ import { animateScroll as scroll } from 'react-scroll';
 import { ContactContainer, ContactLinkContainer, ContactLinkItems, ContactLinkTitle, ContactLinkWrapper, ContactWrap,ContactLink } from './ContactUsElements';
 
 const Contact = () => {
-    scroll.scrollToTop();
   
   return (
     <ContactContainer id="contact">
@@ -15,11 +14,11 @@ const Contact = () => {
           <ContactLinkWrapper>
             <ContactLinkItems>
               <ContactLinkTitle>Email</ContactLinkTitle>
-            <ContactLink ><span><a href="mailto:test@gmail.com">test@gmail.com</a></span></ContactLink>
+            <ContactLink ><span><a href="mailto:deliabruyns@gmail.com">deliabruyns@gmail.com</a></span></ContactLink>
             </ContactLinkItems>
             <ContactLinkItems>
               <ContactLinkTitle>Mobile Number</ContactLinkTitle>
-                <ContactLink >+27 72 567 5288</ContactLink>
+                <ContactLink >+27 83 279 9774</ContactLink>
             </ContactLinkItems>
             <ContactLinkItems>
             <SocialIcons>

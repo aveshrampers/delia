@@ -11,7 +11,7 @@ const Hero = () => {
       </HeroBg>
       <HeroContent>
         <HeroH1>Cleaning done to your satisfaction</HeroH1>
-        <HeroP>Contact Deliah's Cleaning Services for a quote</HeroP>
+        <HeroP>Contact Just Brite Cleaning Service for a quote</HeroP>
       </HeroContent>
     </HeroContainer>
   )

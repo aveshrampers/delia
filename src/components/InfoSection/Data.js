@@ -4,8 +4,8 @@ export const homeObjOne = {
   lightText: false,
   lighttextDesc: false,
   topLine: 'About',
-  headline: "Deliah's Cleaning Services",
-  description: "At Deliah's Cleaning Services, we specialize in cleaning to client needs."+
+  headline: "Just Brite Cleaning Service",
+  description: "At Just Brite Cleaning Service, we specialize in cleaning to client needs."+
   'We strive for the very best in meeting the clients needs. Our goal is to leave the customer feeling like they are living in a brand new home.',
   imgStart: false,
   img: './images/clean.jpg',
