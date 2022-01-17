@@ -15,6 +15,7 @@ export const ContactWrap = styled.div`
 `
 export const ContactLinkContainer = styled.div`
   display: flex;
+  justify-content: center;
 
   @media screen and (max-width: 820px) {
     //padding-top: 32px;
@@ -23,7 +24,6 @@ export const ContactLinkContainer = styled.div`
 
 export const ContactLinkWrapper = styled.div`
   display: flex;
-  text-align-last:center;
 
   @media screen and (max-width: 820px) {
     flex-direction: column;
