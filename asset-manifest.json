@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/delia/static/css/main.64b24a9c.chunk.css",
-    "main.js": "/delia/static/js/main.92b42277.chunk.js",
-    "main.js.map": "/delia/static/js/main.92b42277.chunk.js.map",
+    "main.js": "/delia/static/js/main.d4b509a5.chunk.js",
+    "main.js.map": "/delia/static/js/main.d4b509a5.chunk.js.map",
     "runtime-main.js": "/delia/static/js/runtime-main.b831d940.js",
     "runtime-main.js.map": "/delia/static/js/runtime-main.b831d940.js.map",
     "static/js/2.2025d150.chunk.js": "/delia/static/js/2.2025d150.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b831d940.js",
     "static/js/2.2025d150.chunk.js",
     "static/css/main.64b24a9c.chunk.css",
-    "static/js/main.92b42277.chunk.js"
+    "static/js/main.d4b509a5.chunk.js"
   ]
 }
