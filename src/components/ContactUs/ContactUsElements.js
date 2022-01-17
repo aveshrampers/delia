@@ -15,7 +15,6 @@ export const ContactWrap = styled.div`
 `
 export const ContactLinkContainer = styled.div`
   display: flex;
-  justify-content: center;
 
   @media screen and (max-width: 820px) {
     //padding-top: 32px;
